@@ -1,6 +1,13 @@
-# React redux todo app
+# React redux todo app (redux-thunk & redux-toolkit)
 
-Source code for React redux todo Includes
+![Screenshot](https://github.com/wasilahmad/react-redux-todo/blob/main/redux-toolkit-snap.png 'Tutorial Screenshot')
+
+
+## What You'll Learn
+-  Redux fundamentals using redux-toolkit syntax 
+-  To Perform async CRUD operaiotn using redux-thunk
+
+## Source code for React redux todo Includes
 
 - Finished source code
 - Starter code
@@ -10,19 +17,11 @@ Source code for React redux todo Includes
 
 Clone the repo and run the following:
 
-- cd final
+- cd todo-redux-thunk
 - npm install
 - npm start
 
 **NOTE:** The API must be running in order for the finished code to work as intended. Seee "Running the API" below
-
-## Running the starter code
-
-The starter code is located in its own folder. To get it:
-
-- cd starter
-- npm install
-- npm start
 
 ## Running the API
 
@@ -37,3 +36,11 @@ The API is a dead basic node.js/express server. Clone the repo and run the follo
 localhost:7000/todos
 
 ```
+
+## Running the starter code
+
+The starter code is located in its own folder. To get it:
+
+- cd starter-template
+- npm install
+- npm start
