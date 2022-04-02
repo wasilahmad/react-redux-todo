@@ -1,6 +1,6 @@
 # React redux todo app
 
-Source code for React redux todo app YouTube tutorial. Includes
+Source code for React redux todo Includes
 
 - Finished source code
 - Starter code
